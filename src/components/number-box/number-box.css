@@ -1,0 +1,14 @@
+.number-box {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 150px;
+	height: 150px;
+	background-color: slategray;
+	margin: 0 auto;
+}
+
+.number {
+	font-size: 80px;
+	color: white;
+}
